@@ -1,4 +1,4 @@
-# Universitetinė egzamino užduotis
+# Žodžių bei URL radimo programa
 
 Ši programa duotame tekste:
 1. Suskaičiuoja žodžių kiekį
