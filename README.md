@@ -12,4 +12,4 @@
 
 *Gauti rezultatai 'output.txt' faile:*
 -----------------------------------------
-![image](https://user-images.githubusercontent.com/73912309/121179913-e5a6cd00-c868-11eb-99f0-d6d037b3b2d8.png)
+![image](https://user-images.githubusercontent.com/73912309/121180304-6239ab80-c869-11eb-953a-3bb563709a6a.png)
