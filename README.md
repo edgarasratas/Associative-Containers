@@ -22,3 +22,14 @@ Jums tereikia paleisti programą ir rezultatų failas bus automatiškai sutvarky
 *Gauti rezultatai 'output.txt' faile:*
 -----------------------------------------
 ![image](https://user-images.githubusercontent.com/73912309/121180368-71205e00-c869-11eb-91b4-ea645b976667.png)
+-----------------------------------------
+[1.0]
+-----------------------------------------
+Pradinė programos versija.
+-----------------------------------------
+[1.1]
+-----------------------------------------
+Atnaujintas README.md failas.
+-----------------------------------------
+[1.2]
+Sutvarkytos kelios klaidos faile, kuris ieško tekste esančių nuorodų.
