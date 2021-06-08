@@ -1,5 +1,13 @@
 # Žodžių bei URL radimo programa
 
+*Programos diegimo instrukcija*
+----------------------------------
+Atsisiųstus failus sukompiliuokite pasinaudojant Jūsų megstamu kompiliatoriumi.
+
+*Naudojimosi instrukcija*
+----------------------------------
+Jums tereikia paleisti programą ir rezultatų failas bus automatiškai sutvarkytas.
+
 Ši programa duotame tekste:
 1. Suskaičiuoja žodžių kiekį
 2. Išveda visus žodžius, kurie pasikartoja 2 kartus arba daugiau
