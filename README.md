@@ -32,4 +32,5 @@ Pradinė programos versija.
 Atnaujintas README.md failas.
 -----------------------------------------
 [1.2]
+-----------------------------------------
 Sutvarkytos kelios klaidos faile, kuris ieško tekste esančių nuorodų.
